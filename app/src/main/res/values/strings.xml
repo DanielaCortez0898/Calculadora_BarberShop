@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BarberShop_Calculadora</string>
+    <string name="barba">Barba:</string>
+    <string name="cortes">Cortes:</string>
+    <string name="royal_barbershop">ROYAL BARBERSHOP</string>
+    <string name="ceja">Ceja:</string>
+    <string name="mascarilla">Mascarilla:</string>
+    <string name="calcular">Calcular</string>
+    <string name="total">Total:</string>
+</resources>
