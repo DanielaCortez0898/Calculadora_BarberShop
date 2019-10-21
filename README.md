@@ -1,5 +1,3 @@
-# Calculadora_BarberShop
-Calculadora que va obtener el total que se le debe cobrar al cliente dependiendo de lo que se hizo.
 
 ### Name
 Calculadora BarberShop
