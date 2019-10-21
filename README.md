@@ -7,17 +7,17 @@ Esta aplicación es para una Barberia llamada Royal BarberShop que ofrece corte 
 
 
 ### Visuals
-![](captura_aplicacion.png)
+![](images/captura_aplicacion.png)
 
 
 ### Usage
 Esta aplicación es para que calcule el total de los servicios que se realizó el cliente en la barberia. Los costos de los diferentes servicios que brinda son:
-Cortes =100 pesos
-Ceja=20 pesos
-Barba=40 pesos
+Cortes =100 pesos,
+Ceja=20 pesos,
+Barba=40 pesos,
 Mascarilla=50 pesos
  
-Y en la aplicacion se debe de ingresar la cantidad de cada uno de los servicios que esta solicitando el cliente y si un cliente solicitó todos los servicios el total que se espera es que sea de 210 pesos.
+Y en la aplicación se debe de ingresar la cantidad de cada uno de los servicios que esta solicitando el cliente y si un cliente solicitó todos los servicios el total que se espera es que sea de 210 pesos.
 
 
 ### Roadmap
