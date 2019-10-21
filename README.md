@@ -9,7 +9,7 @@ Esta aplicación es para una Barberia llamada Royal BarberShop que ofrece corte 
 
 
 ### Visuals
-![](images/captura_aplicacion.jpg)
+![](images/captura_aplicacion.png)
 
 
 ### Usage
