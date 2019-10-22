@@ -1,6 +1,6 @@
 
 ### Name
-Calculadora BarberShop
+BarberShop_Calculadora 
 
 ### Description
 Esta aplicación es para una Barberia llamada Royal BarberShop que ofrece corte de cabello, de ceja, de barba y aplicación de mascarillas cada uno de estos servicios tienen un precio diferente, el objetivo de la aplicación es que el barbero ingrese la cantidad que se realizó por cada servicio y se realicen los cálculos dependiendo de la cantidad de lo que el cliente solicitó para obtener el total de pago.
